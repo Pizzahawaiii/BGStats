@@ -7,8 +7,8 @@ An addon for WoW 1.12.1 that records and calculates battleground statistics for 
 ## Install
 
 1. Download [latest version](https://github.com/Pizzahawaiii/BGStats/archive/refs/heads/main.zip).
-2. Extract `BGStats-main` to your <WoW>/Interface/AddOns folder.
-3. Rename `BGStats-main` to `BGStats`.
+2. Extract the `BGStats-main` folder into your `<WoW>/Interface/AddOns` directory.
+3. Rename the `BGStats-main` folder to `BGStats`.
 
 ## Use
 
