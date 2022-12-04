@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: BGStats
+## Notes: Show your statistics about different battlegrounds
+## SavedVariablesPerCharacter: BGStats_Stats
+BGStats.lua
